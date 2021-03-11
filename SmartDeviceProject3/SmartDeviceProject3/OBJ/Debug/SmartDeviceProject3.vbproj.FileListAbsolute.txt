@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\bin\Debug\SmartDeviceProject3.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\bin\Debug\SmartDeviceProject3.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\bin\Debug\SmartDeviceProject3.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\obj\Debug\SmartDeviceProject3.Form1.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\obj\Debug\SmartDeviceProject3.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\obj\Debug\SmartDeviceProject3.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\obj\Debug\SmartDeviceProject3.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\obj\Debug\SmartDeviceProject3.xml
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SmartDeviceProject3\SmartDeviceProject3\obj\Debug\SmartDeviceProject3.pdb
