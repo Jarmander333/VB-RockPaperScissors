@@ -48,3 +48,5 @@ It should look something like this (A rough approximation):
 Go!
          
 ---------------------------------------------------------------------------------------------------------
+
+I actually made this a year or 2 ago, on an old Windows XP Computer, and learned that the program works on Windows 10!  So if I had to guess, I'd assume that the compatibility of this program is from Windows 2000/XP - Windows 10 (Including Windows Mobile).  
